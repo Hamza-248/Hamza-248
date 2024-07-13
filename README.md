@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamza-248
 - 👀 I’m interested in ... AI, Programming & Cybersecurity 
-- 🌱 I’m currently learning ... C++ & Phyton 
+- 🌱 I’m currently learning ... C++ & Python 
 - 📫 How to reach me ... through email hamzayousafzai248@gmail.com
 - 😄 Pronouns: ... He/him
 
